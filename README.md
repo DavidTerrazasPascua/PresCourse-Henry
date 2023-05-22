@@ -1,2 +1,3 @@
 # PresCourse-Henry
-Este es el repositorio del modulo 2 del precurso de Henry
+ David Terrazas
+Este es el repositorio es una prueba de como clonar un repositorio desde github a mi computadora.
